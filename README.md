@@ -1,3 +1,4 @@
+Based on: https://aws.amazon.com/tutorials/serve-a-flask-app/
 Prerequisites
 Before starting this example, you will need:
 An AWS account, properly configured AWS Command Line Interface (CLI), Docker installed on your local machine.
